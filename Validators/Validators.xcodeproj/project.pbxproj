@@ -26,7 +26,6 @@
 /* Begin PBXFileReference section */
 		4696E66F26EFDD8F007D7B3D /* Validators.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Validators.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4696E67226EFDD8F007D7B3D /* Validators.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Validators.h; sourceTree = "<group>"; };
-		4696E67326EFDD8F007D7B3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4696E67826EFDD8F007D7B3D /* ValidatorsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ValidatorsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4696E67D26EFDD8F007D7B3D /* ValidatorsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidatorsTests.swift; sourceTree = "<group>"; };
 		4696E67F26EFDD8F007D7B3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -74,7 +73,6 @@
 			isa = PBXGroup;
 			children = (
 				4696E67226EFDD8F007D7B3D /* Validators.h */,
-				4696E67326EFDD8F007D7B3D /* Info.plist */,
 				4696E68B26EFDDA6007D7B3D /* NumberValidator.swift */,
 			);
 			path = Validators;
